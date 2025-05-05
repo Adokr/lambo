@@ -1,0 +1,133 @@
+# Format: <UD training corpus> <ISO 639-1 code (for OSCAR pretraining)> <Language name> <Recommended (chosen by size)>
+UD_Afrikaans-AfriBooms af Afrikaans
+UD_Ancient_Greek-PROIEL ? Ancient_Greek *
+UD_Ancient_Greek-PTNK ? Ancient_Greek
+UD_Ancient_Greek-Perseus ? Ancient_Greek
+UD_Ancient_Hebrew-PTNK ? Ancient_Hebrew
+#UD_Arabic-NYUAD ar Arabic
+UD_Arabic-PADT ar Arabic *
+UD_Armenian-ArmTDP hy Armenian *
+UD_Armenian-BSUT hy Armenian
+UD_Basque-BDT eu Basque
+UD_Belarusian-HSE be Belarusian
+UD_Bulgarian-BTB bg Bulgarian
+UD_Catalan-AnCora ca Catalan
+UD_Chinese-GSD zh Chinese
+UD_Chinese-GSDSimp zh Chinese *
+UD_Classical_Chinese-Kyoto ? Classical_Chinese
+UD_Coptic-Scriptorium ? Coptic
+UD_Croatian-SET hr Croatian
+UD_Czech-CAC cs Czech
+UD_Czech-CLTT cs Czech
+UD_Czech-FicTree cs Czech
+UD_Czech-PDT cs Czech *
+UD_Danish-DDT da Danish
+UD_Dutch-Alpino nl Dutch *
+UD_Dutch-LassySmall nl Dutch
+UD_English-Atis en English
+UD_English-ESLSpok en English
+UD_English-EWT en English *
+UD_English-GUM en English
+UD_English-GUMReddit en English
+UD_English-LinES en English
+UD_English-ParTUT en English
+UD_Estonian-EDT et Estonian *
+UD_Estonian-EWT et Estonian
+UD_Faroese-FarPaHC fo Faroese
+UD_Finnish-FTB fi Finnish
+UD_Finnish-TDT fi Finnish *
+UD_French-GSD fr French *
+UD_French-ParTUT fr French
+UD_French-ParisStories fr French
+UD_French-Rhapsodie fr French
+UD_French-Sequoia fr French
+UD_Galician-CTG gl Galician
+UD_German-GSD de German *
+UD_German-HDT de German
+UD_Gothic-PROIEL ? Gothic
+UD_Greek-GDT el Greek
+UD_Hebrew-HTB he Hebrew *
+UD_Hebrew-IAHLTwiki he Hebrew
+UD_Hindi-HDTB hi Hindi
+UD_Hungarian-Szeged hu Hungarian
+UD_Icelandic-GC is Icelandic
+UD_Icelandic-IcePaHC is Icelandic *
+UD_Icelandic-Modern is Icelandic
+UD_Indonesian-GSD id Indonesian
+UD_Irish-IDT ga Irish *
+UD_Irish-TwittIrish ga Irish
+UD_Italian-ISDT it Italian *
+UD_Italian-MarkIT it Italian
+UD_Italian-Old it Italian
+UD_Italian-ParTUT it Italian
+UD_Italian-PoSTWITA it Italian
+UD_Italian-TWITTIRO it Italian
+UD_Italian-VIT it Italian
+UD_Japanese-BCCWJ ja Japanese *
+UD_Japanese-BCCWJLUW ja Japanese
+UD_Japanese-GSD ja Japanese
+UD_Japanese-GSDLUW ja Japanese
+UD_Korean-GSD ko Korean
+UD_Korean-Kaist ko Korean *
+UD_Latin-ITTB la Latin *
+UD_Latin-LLCT la Latin
+UD_Latin-PROIEL la Latin
+UD_Latin-UDante la Latin
+UD_Latvian-LVTB lv Latvian
+UD_Lithuanian-ALKSNIS lt Lithuanian *
+UD_Lithuanian-HSE lt Lithuanian
+UD_Maghrebi_Arabic_French-Arabizi ? Maghrebi_Arabic_French
+UD_Maltese-MUDT mt Maltese
+UD_Marathi-UFAL mr Marathi
+UD_Naija-NSC ? Naija
+UD_Norwegian-Bokmaal no Norwegian
+UD_Norwegian-Nynorsk nn Norwegian *
+UD_Old_Church_Slavonic-PROIEL ? Old_Church_Slavonic
+UD_Old_East_Slavic-Birchbark ? Old_East_Slavic
+UD_Old_East_Slavic-RNC ? Old_East_Slavic
+UD_Old_East_Slavic-Ruthenian ? Old_East_Slavic
+UD_Old_East_Slavic-TOROT ? Old_East_Slavic *
+UD_Old_French-PROFITEROLE ? Old_French
+UD_Persian-PerDT fa Persian *
+UD_Persian-Seraji fa Persian
+UD_Polish-LFG pl Polish
+UD_Polish-PDB pl Polish *
+UD_Polish-NKJP1M_PDB pl Polish
+UD_Pomak-Philotis ? Pomak
+UD_Portuguese-Bosque pt Portuguese
+UD_Portuguese-CINTIL pt Portuguese *
+UD_Portuguese-GSD pt Portuguese
+UD_Portuguese-PetroGold pt Portuguese
+UD_Portuguese-Porttinari pt Portuguese
+UD_Romanian-Nonstandard ro Romanian *
+UD_Romanian-RRT ro Romanian
+UD_Romanian-SiMoNERo ro Romanian
+UD_Russian-GSD ru Russian
+UD_Russian-Poetry ru Russian
+UD_Russian-SynTagRus ru Russian *
+UD_Russian-Taiga ru Russian
+UD_Scottish_Gaelic-ARCOSG gd Scottish_Gaelic
+UD_Serbian-SET sr Serbian
+UD_Slovak-SNK sk Slovak
+UD_Slovenian-SSJ sl Slovenian
+UD_Spanish-AnCora es Spanish *
+UD_Spanish-GSD es Spanish
+UD_Swedish-LinES sv Swedish
+UD_Swedish-Talbanken sv Swedish *
+UD_Tamil-TTB ta Tamil
+UD_Telugu-MTG te Telugu
+UD_Turkish-Atis tr Turkish
+UD_Turkish-BOUN tr Turkish
+UD_Turkish-FrameNet tr Turkish
+UD_Turkish-IMST tr Turkish
+UD_Turkish-Kenet tr Turkish
+UD_Turkish-Penn tr Turkish *
+UD_Turkish-Tourism tr Turkish
+UD_Turkish_German-SAGT ? Turkish_German
+UD_Ukrainian-IU uk Ukrainian
+UD_Urdu-UDTB ur Urdu
+UD_Uyghur-UDT ug Uyghur
+UD_Vietnamese-VTB vi Vietnamese
+UD_Welsh-CCG cy Welsh
+UD_Western_Armenian-ArmTDP hy Western_Armenian
+UD_Wolof-WTB wo Wolof
